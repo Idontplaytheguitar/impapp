@@ -1,0 +1,16 @@
+.logIn{
+    color: #920808;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 1em;
+    background-color: black;
+    border-radius: 0.5em;
+    padding: 0.5em;
+    width: 100%;
+    height: 100%;
+}
+.logIn:hover{
+    background-color: #920808;
+    color: rgba(255, 255, 255, 0.822);
+}
