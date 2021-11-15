@@ -1,3 +1,11 @@
+### `npm install`
+
+to install the required modules to run the app
+
+
+
+then
+
 ### `npm start`
 
 Runs the app.\
